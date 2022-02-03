@@ -4,7 +4,7 @@ import java.lang.Math;
 
 public class JumpSearch {
 
-    public static int[] arr = { 0, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, 233, 377, 610 }; // 15 elements, i = 14
+    public static int[] arr = { 0, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, 233, 377, 610 };
 
     /**
      * Jump Search is a searching algorithm for sorted arrays.
