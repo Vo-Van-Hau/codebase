@@ -8,6 +8,7 @@ public class JumpSearch {
 
     /**
      * Jump Search is a searching algorithm for sorted arrays.
+     * The time complexity of the algorithm isO(√n)  
      * @param arr
      * @param keySearch
      * @return Integer 
